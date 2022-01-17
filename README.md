@@ -24,7 +24,11 @@ Matplotlib== 3.4.3
 Seaborn== 0.11.1
 
 # Dataset
-You can find the dataset in this folder: https://drive.google.com/drive/folders/1X2AEY9YSN0R6h0ogngkziurILHwblpoV
+I have used the “German Traffic Sign Recognition Benchmark” (GTSRB) dataset.
+
+Dataset contains 43 classes with 39,209 total images. 
+
+You can find the dataset here: https://drive.google.com/drive/folders/1X2AEY9YSN0R6h0ogngkziurILHwblpoV
 
 # References
 Dataset : https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
